@@ -8,7 +8,7 @@ namespace TZ
     {
         public Spawner spawner;
         public CloudController cloudController;
-        public List<Refresh> villagers;
+        public List<Refresh1> villagers;
         private void Update()
         {
             if (Input.GetKeyDown(KeyCode.X))
